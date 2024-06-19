@@ -15,9 +15,7 @@ Bienvenue sur mon compte GitHub ! Je suis Mohamed Eleisawy, un développeur pass
   <img height="150" src="https://i.gifer.com/L6m.gif"  />
 </div>
 
-###
-
-<p align="center">Compétences</p>
+## Compétences
 
 ###
 
