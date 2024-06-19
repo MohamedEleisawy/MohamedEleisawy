@@ -8,7 +8,6 @@ Bienvenue sur mon compte GitHub ! Je suis Mohamed Eleisawy, un développeur pass
 - 📫 Tu peux me contacter à eleisawy19@gmail.com.
 - ⚡J'aime apprendre de nouvelles technologies.
 - Portfolio : https://mohamedeleisawy.com .
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
