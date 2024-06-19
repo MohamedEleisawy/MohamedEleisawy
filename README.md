@@ -59,7 +59,7 @@ Bienvenue sur mon compte GitHub ! Je suis Mohamed Eleisawy, un développeur pass
 
 ###
 
-<img src="https://raw.githubusercontent.com/MohamedEleisawy /MohamedEleisawy /output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mohamed_ Eleisawy  /Mohamed_ Eleisawy  /output/snake.svg" alt="Snake animation" />
 
 ###
 ## 📂 Projets
