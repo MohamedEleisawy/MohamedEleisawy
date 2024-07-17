@@ -119,14 +119,12 @@ Bienvenue sur mon compte GitHub ! Je suis Mohamed Eleisawy, un développeur pass
   </a>
   <img width="12" />
   
-  <a href="https://balsamiq.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/balsamiq/balsamiq-original.svg" height="30" alt="balsamiq logo" />
+  <a href="https://balsamic.com/" target="_blank">
+    <img src="https://pic.clubic.com/v1/images/2024553/raw" height="30" alt="balsamiq logo" />
   </a>
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Mohamed_Eleisawy/Mohamed_Eleisawy/output/snake.svg" alt="Snake animation" />
 
 ## 📂 Projets
 
