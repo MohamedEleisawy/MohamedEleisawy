@@ -4,7 +4,7 @@ Bienvenue sur mon compte GitHub ! Je suis Mohamed Eleisawy, un développeur pass
 
 ## 🚀 À propos de moi
 
-- 🌱 Actuellement, j'apprends React et Tailwind.
+- 🌱 Actuellement, j'apprends Node et Tailwind.
 - 📫 Tu peux me contacter à [eleisawy19@gmail.com](mailto:eleisawy19@gmail.com).
 - ⚡ J'aime apprendre de nouvelles technologies.
 - Portfolio : [mohamedeleisawy.com](https://mohamedeleisawy.com).
