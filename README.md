@@ -92,7 +92,7 @@ Bienvenue sur mon compte GitHub ! Je suis Mohamed Eleisawy, un développeur pass
   <img width="12" />
   
   <a href="https://ejs.co/" target="_blank">
-    <img src="https://ejs.co/images/ejs.svg" height="80" alt="ejs logo" />
+    <img src="https://ejspr.com/app/uploads/2021/03/EJS-Abrv._Green-Grass_High-Res.png" height="80" alt="ejs logo" />
   </a>
 </div>
 
