@@ -20,53 +20,108 @@ Bienvenue sur mon compte GitHub ! Je suis Mohamed Eleisawy, un développeur pass
 ### Langages
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="html5 logo" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="html5 logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="css3 logo" />
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="css3 logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="javascript logo" />
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="javascript logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="80" alt="php logo" />
+  
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://cdn.simpleicons.org/php/777BB4" height="80" alt="php logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="mysql logo" />
+  
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="mysql logo" />
+  </a>
 </div>
 
 ### Frameworks
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="80" alt="vuejs logo" />
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="80" alt="vuejs logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80" alt="react logo" />
+  
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80" alt="react logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80" alt="nodejs logo" />
+  
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80" alt="nodejs logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" height="80" alt="cakephp logo" />
+  
+  <a href="https://cakephp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" height="80" alt="cakephp logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=symfony" height="80" alt="symfony logo" />
+  
+  <a href="https://symfony.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=symfony" height="80" alt="symfony logo" />
+  </a>
 </div>
 
 ### Bibliothèques
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="80" alt="mongodb logo" />
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="80" alt="mongodb logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="80" alt="express logo" />
+  
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" height="80" alt="express logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="80" alt="bootstrap logo" />
+  
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="80" alt="nodejs logo" />
+  </a>
+  <img width="12" />
+  
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="80" alt="bootstrap logo" />
+  </a>
 </div>
 
 ### Autres Compétences
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo" />
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo" />
+  
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo" />
+  
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/balsamiq/balsamiq-original.svg" height="30" alt="balsamiq logo" />
-
+  
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
+  </a>
+  <img width="12" />
+  
+  <a href="https://balsamiq.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/balsamiq/balsamiq-original.svg" height="30" alt="balsamiq logo" />
+  </a>
 </div>
 
 ###
