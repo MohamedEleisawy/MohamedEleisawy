@@ -52,8 +52,6 @@ Bienvenue sur mon compte GitHub ! Je suis Mohamed Eleisawy, un développeur pass
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="80" alt="express logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="80" alt="nodejs logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="80" alt="bootstrap logo" />
 </div>
 
@@ -67,6 +65,8 @@ Bienvenue sur mon compte GitHub ! Je suis Mohamed Eleisawy, un développeur pass
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/balsamiq/balsamiq-original.svg" height="30" alt="balsamiq logo" />
+
 </div>
 
 ###
