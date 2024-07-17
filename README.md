@@ -86,13 +86,13 @@ Bienvenue sur mon compte GitHub ! Je suis Mohamed Eleisawy, un développeur pass
   </a>
   <img width="12" />
   
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="80" alt="nodejs logo" />
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="80" alt="bootstrap logo" />
   </a>
   <img width="12" />
   
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="80" alt="bootstrap logo" />
+  <a href="https://ejs.co/" target="_blank">
+    <img src="https://ejs.co/images/ejs.svg" height="80" alt="ejs logo" />
   </a>
 </div>
 
