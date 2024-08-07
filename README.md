@@ -130,7 +130,7 @@ Bienvenue sur mon compte GitHub ! Je suis Mohamed Eleisawy, un développeur pass
 
 Voici quelques-uns de mes projets récents :
 
-- [Site Algoscope](https://algoscope.fr/FR/) : Création du front du site web.
+- [Site Algoscope](https://algoscope.io/) : Création du front du site web.
 - [Site Showroom CIMW](http://www.showroomcimw.fr/) : Réalisation d'une mini-application de démonstration de chartes graphiques pour la commercialisation de solutions web de gestion au moyen du framework CakePHP.
 - ...
 
